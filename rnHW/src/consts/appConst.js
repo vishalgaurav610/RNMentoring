@@ -1,0 +1,1 @@
+export const MAIN_SCREEN_HEADER_TITLE = 'Ecommerce Store';
